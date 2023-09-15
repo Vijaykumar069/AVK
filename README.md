@@ -1,6 +1,6 @@
 # AVK
 
-<h3 align="left">👋 Hi! My name is Vijaya Kumar<br>👀 I’m interested in Web Develpoment<br>🌱 I’m currently Perceiving Computer Science Student<br>💞️ I’m looking to collaborate on many projects</h3>
+<h3 align="left">👋 Hi! My name is Vijaya Kumar<br>👀 I’m interested in Web Develpoment<br>🌱 I’m currently Perceiving Btech as a Computer Science Student<br>💞️ I’m looking to collaborate on many projects</h3>
 
 ###
 
