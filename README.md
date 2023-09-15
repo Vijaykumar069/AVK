@@ -1,5 +1,5 @@
 # AVK
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
 
 <h3 align="left">👋 Hi! My name is Vijaya Kumar<br>👀 I’m interested in Web Develpoment<br>🌱 I’m currently Perceiving Btech as a Computer Science Student<br>💞️ I’m looking to collaborate on many projects</h3>
 
